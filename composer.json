@@ -1,9 +1,0 @@
-{
-    "name": "lzxprogrammer/Test-composer",
-    "require": {
-        "monolog/monolog": "1.0.*"
-    },
-    "autoload": {
-        "psr-4": {"Acme\\": "src/"}
-    }
-}
